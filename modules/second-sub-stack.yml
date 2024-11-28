@@ -1,0 +1,5 @@
+Parameters:
+  InstanceType:
+    Type: String
+    Default: m1.small
+    Description: "Test 123"
